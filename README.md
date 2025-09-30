@@ -36,3 +36,4 @@
 <br/>
 
 # 4. Schematic (설계도)
+<img width="877" height="574" alt="Image" src="https://github.com/user-attachments/assets/268d5b1e-62d1-4efe-b0a1-415ec1363842" />
