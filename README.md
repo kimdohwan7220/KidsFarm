@@ -8,7 +8,7 @@
 # 1. Project Overview (프로젝트 개요)
 - 프로젝트 이름: KidsFarm (키즈팜)
 - 프로젝트 설명: 어린이 체험형 원격 스마트팜
-
+- 목적 : 농촌에서의 청년층 참여율이 낮아짐에 따라 어린이들에게 더욱 흥미롭고 유익한 학습 경험을 제공
 <br/>
 <br/>
 
@@ -37,3 +37,9 @@
 
 # 4. Schematic (설계도)
 <img width="877" height="574" alt="Image" src="https://github.com/user-attachments/assets/268d5b1e-62d1-4efe-b0a1-415ec1363842" />
+
+# 5. Diagram Design (다이어그램 설계)
+
+
+# 6. Operation video (구동영상)
+https://github.com/user-attachments/assets/2bf6a27e-9792-48cf-91f3-80773088133a
