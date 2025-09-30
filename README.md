@@ -38,8 +38,15 @@
 # 4. Schematic (설계도)
 <img width="877" height="574" alt="Image" src="https://github.com/user-attachments/assets/268d5b1e-62d1-4efe-b0a1-415ec1363842" />
 
-# 5. Diagram Design (다이어그램 설계)
+<br/>
+<br/>
 
+# 5. Diagram Design (다이어그램 설계)
+  - 아두이노가 센서 데이터를 웹서버로 전송하면, 유니티에서 받아 UI에 실시간으로 표시됩니다. 원격 제어는 유니티가 URL 요청을 보내고 아두이노가 이를 받아 장치를 제어
+<img width="1080" height="360" alt="Image" src="https://github.com/user-attachments/assets/f4dbdd31-61e2-492a-a32c-f06e7fc3fbd3" />
+
+<br/>
+<br/>
 
 # 6. Operation video (구동영상)
 https://github.com/user-attachments/assets/2bf6a27e-9792-48cf-91f3-80773088133a
